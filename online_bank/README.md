@@ -6,15 +6,5 @@ This Database is designed and built on SQL platform.The project is carried out u
 
 (database has to be created)
 
-Hardware specification:
-	
-Processor			: corei5
-Process speed	: 2.3 GHz
-Memory			  : 1GB
 
-Software specification:
-
-Operating system	  	: Microsoft windows 10,windows 7
-Front End			: HTML
-Back End			: PHP
 
